@@ -24,12 +24,16 @@ body {
 }
 
 h2 {
-    color: white;
+    color: aquamarine;
     font-style: italic;
 }
 
 p {
-    color: white;
+    background-color: turquoise;
+    border-style: outset;
+    border-radius: 25px;
+    border-color: turquoise;
+    
     padding-top: 0;
     padding-right: 30px;
     padding-bottom: 0;
